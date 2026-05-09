@@ -10,6 +10,14 @@ Reviews a GitHub pull request for Python 3.13 and Django issues, presents number
 
 **Files:** [`pr-review/`](./pr-review/)
 
+### `write-prd` — Write a Product Requirement Document
+
+Reads the current session context and produces a concise PRD in Markdown, printed directly in the chat.
+
+**Usage:** `/write-prd [optional title or one-liner]`
+
+**Files:** [`write-prd/`](./write-prd/)
+
 ---
 
 ## Installation
